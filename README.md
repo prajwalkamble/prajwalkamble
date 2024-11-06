@@ -7,8 +7,8 @@
   <h3 align="center">A passionate full stack developer from India</h3>
 </h1>
 
-# 💫 About Me:
 <div align="center">
+  # 💫 About Me:
   
   🔭 I’m currently working on **E-Commerce Platform**
   
