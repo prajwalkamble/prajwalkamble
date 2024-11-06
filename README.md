@@ -1,15 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prajwal+Kamble!;" />
-<!--   Hi 👋, I'm Prajwal Kamble -->
 </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<!-- <img align="right" alt="Full Stack GIF" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> -->
 
 # 💫 About Me:
 🔭 I’m currently working on **Personal Finance Manager**<br><br>🌱 I’m currently learning **Ethical Hacking, AI**<br><br>💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**<br><br>📫 How to reach me: **prajwalkamble342000@gmail.com**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <br><br>
 <div align="center">
