@@ -25,8 +25,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div>
-  <h3># 🌐 Socials:</h3>
+<div align="center">
+  <h1># 🌐 Socials:</h1>
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameisprajwalofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-kamble-00b7061a2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@prajwalkamble342000) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13738129) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajwal10138375)
 </div>
