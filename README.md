@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  # 💫 About Me:
+  #💫 About Me:
   
   🔭 I’m currently working on **E-Commerce Platform**
   
