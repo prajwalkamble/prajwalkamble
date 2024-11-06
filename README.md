@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=prajwalkamble&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
+  <img width=390 margin="10px" src="https://github-readme-stats.vercel.app/api?username=prajwalkamble&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="streak stats"/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalkamble&theme=github_dark&hide_border=false" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkamble&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
