@@ -10,9 +10,9 @@
 # 💫 About Me:
 <div align="center">
   
-  🔭 I’m currently working on **Personal Finance Manager**
+  🔭 I’m currently working on **E-Commerce Platform**
   
-  🌱 I’m currently learning **Ethical Hacking, AI**
+  🌱 I’m currently learning **Cyber Security, Docker**
   
   💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**
   
