@@ -48,8 +48,11 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkamble&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
-## ✍️ Developer's Daily Inspiration
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
+<div align="center">
+  <h1>✍️ Developer's Daily Inspiration</h1>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 <!-- ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prajwalkamble&limit=5&theme=github_dark&combine_all_yearly_contributions=true) -->
