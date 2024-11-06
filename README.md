@@ -9,7 +9,14 @@
 
 # 💫 About Me:
 <div align="center">
-  🔭 I’m currently working on **Personal Finance Manager**<br><br>🌱 I’m currently learning **Ethical Hacking, AI**<br><br>💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**<br><br>📫 How to reach me: **prajwalkamble342000@gmail.com**
+  
+  🔭 I’m currently working on **Personal Finance Manager**
+  
+  🌱 I’m currently learning **Ethical Hacking, AI**
+  
+  💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**
+  
+  📫 How to reach me: **prajwalkamble342000@gmail.com**
 </div>
 
 <br>
