@@ -7,8 +7,6 @@
   <h3 align="center">A passionate full stack developer from India</h3>
 </h1>
 
-<div align="center">#💫 About Me:</div>
-
 <div align="center">
   
   🔭 I’m currently working on **E-Commerce Platform**
@@ -17,7 +15,7 @@
   
   💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**
   
-  📫 How to reach me: **prajwalkamble342000@gmail.com**
+  ⚡ Fun fact **If Programming Was Like Gaming: Press "Start" to begin... a 24-hour debug session**
 </div>
 
 <br>
