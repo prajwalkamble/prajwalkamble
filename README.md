@@ -51,7 +51,7 @@
 <br>
 <div align="center">
   <h1>✍️ Developer's Daily Inspiration</h1>
-  <img width="490" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="developers quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="developers quotes" />
   
   <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 </div>
