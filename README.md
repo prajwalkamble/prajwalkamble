@@ -2,11 +2,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prajwal+Kamble!;" />
 </h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on **Personal Finance Manager**<br><br>🌱 I’m currently learning **Ethical Hacking, AI**<br><br>💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**<br><br>📫 How to reach me: **prajwalkamble342000@gmail.com**
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <br><br>
 <div align="center">
