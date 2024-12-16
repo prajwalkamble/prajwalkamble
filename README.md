@@ -11,11 +11,11 @@
   
   🔭 I’m currently working on **E-Commerce Platform**
   
-  🌱 I’m currently learning **Cyber Security, Docker**
+  🌱 I’m currently learning **Cyber Security, Docke, Kafka**
   
   💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**
   
-  ⚡ Fun fact **If Programming Was Like Gaming: Press "Start" to begin... a 24-hour debug session**
+  ⚡ Fun fact: **If Programming Was Like Gaming: Press "Start" to begin... a 24-hour debug session**
 </div>
 
 <br>
