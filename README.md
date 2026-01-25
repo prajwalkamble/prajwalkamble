@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  🔭 I’m currently working on **E-Commerce Platform**
+  🔭 I’m currently working on **Personal Finance Manager App**
   
-  🌱 I’m currently learning **Cyber Security, Docke, Kafka**
+  🌱 I’m currently learning **Cyber Security, Docker, Kafka**
   
   💬 Ask me about **Java, React, Spring Boot, HTML5, CSS3**
   
